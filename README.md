@@ -1,4 +1,4 @@
-<!-- 
+ <!-- 
 	FIZ UM VÍDEO NO MEU CANAL (), 
  	MOSTRANDO PASSO-A-PASSO DE COMO
   	UTILIZAR ESSA DESCRIÇÃO
@@ -77,10 +77,15 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 
 
 ### Widget em uma página externa
-[Pagina Home!](https://thiagoirenio.github.io/NoticiasCidade/)
 <br>
 <p>
-	<a href="https://thiagoirenio.github.io/NoticiasCidade/">Sobre</a> •
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Home</a>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/internacional.html">Home</a>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
 </p>
 
 
