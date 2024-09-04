@@ -75,10 +75,10 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 <h1>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site01.png" alt="Imagem do site 01" width="500" height="600"><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site02.png" alt="Imagem do site 02" width="500" height="600"><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site03.png" alt="Imagem do site 03" width="500" height="600"><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site04.png" alt="Imagem do site 04" width="500" height="600"><br>
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site01.png" alt="Imagem do site 01" width="1500" height="600"><br>
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site02.png" alt="Imagem do site 02" width="1500" height="600"><br>
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site03.png" alt="Imagem do site 03" width="1500" height="600"><br>
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site04.png" alt="Imagem do site 04" width="1500" height="600"><br>
 	
 
 </h1>
