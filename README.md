@@ -65,8 +65,9 @@
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Um site com 7 abas diferentes {Home}, {Brasil}, {Internacional}, {Economia}, {Saúde}, {Ciência} e {Fotos}.
+- [x] Um site com 7 abas diferentes <strong>Home</strong>, <strong>Brasil</strong>, <strong>Internacional</strong>, <strong>Economia</strong>, <strong>Saúde</strong>, <strong>Ciência</strong>, <strong>Fotos</strong>.
 - [x] Cada uma das abas tem algumas imagens e descrições de textos com Lorem ipsum
+
 
 ---
 
