@@ -75,9 +75,17 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 <h1>
+	<p>Imagem do site Home</p> 
+	<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a><br>
 	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site02.png" alt="Imagem do site 02" width="850" height="315" align="center"><br>
+	<p>Imagem do site Home</p> 
+	<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Brasil</a><br>
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site02.png" alt="Imagem do site 02" width="850" height="315" align="center"><br>7
+	<p>Imagem do site Home</p> 
+	<a href="https://thiagoirenio.github.io/NoticiasCidade/internacional.html">Internacional</a><br>
 	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site03.png" alt="Imagem do site 03" width="850" height="315" align="center"><br>
+	<p>Imagem do site Home</p> 
+	<a href="https://thiagoirenio.github.io/NoticiasCidade/economia.html">Economia</a><br>
 	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site04.png" alt="Imagem do site 04" width="850" height="315" align="center"><br>
 	
 
