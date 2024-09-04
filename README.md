@@ -90,8 +90,6 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 	<p align="center>Imagem do site Economia</p> 
 	<a href="https://thiagoirenio.github.io/NoticiasCidade/economia.html">Economia</a><br>
 	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site04.png" alt="Imagem do site 04" width="850" height="315" align="center"><br>
-	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
-	<br>
 	
 
 </h1>
