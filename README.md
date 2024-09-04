@@ -51,7 +51,6 @@
 <p>
 	<strong>NoticiasCidade</strong> é um projeto criado para o meu aprendizado pessoal.
 </p> 
-
 <p>
 	O desafio proposto para este projeto era a criação de um  <strong>Site de Noticias para uma Cidade</strong>. Neste projeto, usei <strong>Html & Css</strong>
 </p> 
