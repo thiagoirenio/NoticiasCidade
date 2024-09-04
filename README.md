@@ -79,13 +79,13 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 ### Widget em uma página externa
 <br>
 <p>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Home</a>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/internacional.html">Home</a>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a><br>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Brasil</a><br>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/internacional.html">Internacional</a><br>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/economia.html">Economia</a><br>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/saude.html">Saúde</a><br>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/ciencia.html">Ceência</a><br>
+	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/fotos.html">Fotos</a><br>
 </p>
 
 
