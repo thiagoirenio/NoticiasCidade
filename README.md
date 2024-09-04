@@ -78,7 +78,7 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 	<p align="center">Imagem do site Home</p> 
 	<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a><br>
 	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center">
-	---
+	<hr size="3" width="50%" align="center" style="border: 1px solid #000;">
 	<br><br><br>
 	<p align="center>Imagem do site Brasil</p> 
 	<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Brasil</a><br>
