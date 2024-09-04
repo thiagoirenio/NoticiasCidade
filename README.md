@@ -24,6 +24,7 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
+
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
@@ -47,9 +48,13 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{NoticiasCidade} é um projeto criado para o meu aprendizado pessoal.
+<p>
+	<strong>NoticiasCidade</strong> é um projeto criado para o meu aprendizado pessoal.
+</p> 
 
-O desafio proposto para este projeto era a criação {Site de Noticias para uma Cidade}. Neste projeto, usei {Html & Css}
+<p>
+	O desafio proposto para este projeto era a criação de um  <strong>Site de Noticias para uma Cidade</strong>. Neste projeto, usei <strong>Html & Css</strong>
+</p> 
 
 <!-- LINHA DE DIVISÃO: -->
 ---
