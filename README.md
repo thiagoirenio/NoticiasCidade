@@ -47,9 +47,9 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
+{NoticiasCidade} é um projeto criado para o meu aprendizado pessoal.
 
-O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
+O desafio proposto para este projeto era a criação {Site de Noticias para uma Cidade}. Neste projeto, usei {Html & Css}
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -60,8 +60,8 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
-- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
+- [x] Um site com 7 abas diferentes {Home}, {Brasil}, {Internacional}, {Economia}, {Saúde}, {Ciência} e {Fotos}.
+- [x] Cada uma das abas tem algumas imagens e descrições de textos com Lorem ipsum
 
 ---
 
@@ -70,12 +70,17 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
+
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 
 
 ### Widget em uma página externa
+<a href="https://thiagoirenio.github.io/NoticiasCidade/">
+<a href="">
+[Pagina Home!](https://thiagoirenio.github.io/NoticiasCidade/)
+
 
 
 
@@ -94,7 +99,7 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
-NeoVIM - O melhor editor
+NeoVIM - Recomento usar também o LazyVim
 
 ---
 
