@@ -75,7 +75,7 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 <h1>
-	<img src="imagensReadme/site01.png" alt="Imagem do site 01">
+	<img src="NoticiasCidade/imagesReadme/site01.png" alt="Imagem do site 01">
 </h1>
 
 
