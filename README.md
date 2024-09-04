@@ -78,6 +78,10 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 
 ### Widget em uma página externa
 [Pagina Home!](https://thiagoirenio.github.io/NoticiasCidade/)
+<br>
+<p>
+	<a href="https://thiagoirenio.github.io/NoticiasCidade/">Sobre</a> •
+</p>
 
 
 
