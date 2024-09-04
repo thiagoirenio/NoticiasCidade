@@ -105,12 +105,12 @@
 <br>
 <p>
 	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a><br>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Brasil</a><br>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/internacional.html">Internacional</a><br>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/economia.html">Economia</a><br>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/saude.html">Saúde</a><br>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/ciencia.html">Ceência</a><br>
-	•🏠<a href="https://thiagoirenio.github.io/NoticiasCidade/fotos.html">Fotos</a><br>
+	•🌍<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Brasil</a><br>
+	•🎌<a href="https://thiagoirenio.github.io/NoticiasCidade/internacional.html">Internacional</a><br>
+	•💹<a href="https://thiagoirenio.github.io/NoticiasCidade/economia.html">Economia</a><br>
+	•🧑‍⚕️<a href="https://thiagoirenio.github.io/NoticiasCidade/saude.html">Saúde</a><br>
+	•⚛️<a href="https://thiagoirenio.github.io/NoticiasCidade/ciencia.html">Ciência</a><br>
+	•📸<a href="https://thiagoirenio.github.io/NoticiasCidade/fotos.html">Fotos</a><br>
 </p>
 
 
