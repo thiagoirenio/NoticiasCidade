@@ -77,24 +77,24 @@ O desafio proposto para este projeto era a criação {Site de Noticias para uma 
 <h1>
 	<p align="center">Imagem do site Home</p> 
 	<a href="https://thiagoirenio.github.io/NoticiasCidade/">Home</a><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"  style = "border-radius: 15px">
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site01.png" alt="Imagem do site 01" width="850" height="315" align="center"><br>
 	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
-	<br><br><br>
+	<br><br>
 	<p align="center>Imagem do site Brasil</p> 
 	<a href="https://thiagoirenio.github.io/NoticiasCidade/brasil.html">Brasil</a><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site02.png" alt="Imagem do site 02" width="850" height="315" align="center">
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site02.png" alt="Imagem do site 02" width="850" height="315" align="center"><br>
 	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
-	<br><br><br>
+	<br><br>
 	<p align="center>Imagem do site Internacional</p> 
 	<a href="https://thiagoirenio.github.io/NoticiasCidade/internacional.html">Internacional</a><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site03.png" alt="Imagem do site 03" width="850" height="315" align="center">
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site03.png" alt="Imagem do site 03" width="850" height="315" align="center"><br>
 	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
-	<br><br><br>
+	<br><br>
 	<p align="center>Imagem do site Economia</p> 
 	<a href="https://thiagoirenio.github.io/NoticiasCidade/economia.html">Economia</a><br>
-	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site04.png" alt="Imagem do site 04" width="850" height="315" align="center">
+	<img src="https://thiagoirenio.github.io/NoticiasCidade/imagesReadme/site04.png" alt="Imagem do site 04" width="850" height="315" align="center"><br>
 	<hr size="3" width="100%" align="center" style="border: 1px solid #000;">
-	<br><br><br>
+	<br><br>
 	
 
 </h1>
