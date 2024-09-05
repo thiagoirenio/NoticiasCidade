@@ -1,0 +1,24 @@
+Raiz do Projeto:
+- index.html: Página principal do site.
+- README.md: Documentação do projeto.
+
+Subpastas:
+- css/: Contém todos os arquivos de estilo (CSS).
+  - styles.css
+- js/: Contém todos os arquivos JavaScript.
+  - scripts.js
+- img/: Contém todas as imagens usadas no projeto.
+  - logo.png
+- fonts/: Contém todas as fontes personalizadas.
+  - custom-font.ttf
+- assets/: Pode ser usada para outros recursos, como vídeos ou ícones.
+
+Estrutura de Componentes (opcional):
+- components/: Contém componentes reutilizáveis.
+  - header.html
+  - footer.html
+
+Estrutura de Funcionalidades (opcional):
+- pages/: Contém diferentes páginas do site.
+  - about.html
+  - contact.html
